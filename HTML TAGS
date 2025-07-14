@@ -1,1 +1,8 @@
-PARAGRAPH TAGS -> <P> CONTENT </P>
+COMMENTS IN HTML <!-- CONTENT -->
+
+HTML IS NOT CASE SENSITIVE MEANS NO CHANGE FOR A &a
+
+PARAGRAPH TAG -> <P> CONTENT </P>
+HEAD TAG      -> <head>  </head>
+TITLE TAG     -> <title>    </title>  // TITLE OF THE PAGE  -> in the body tag we write the title 
+BODY TAG      -> <body>      </body>      BODY OF THE PAGE
