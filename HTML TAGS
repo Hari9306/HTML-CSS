@@ -19,7 +19,32 @@ HEADING TAG ARE 6 TYPE
 <h6>  </h6> small in size 
 
 ANCHOR TAGS -> TO ADD THE LINK TO YOUR PAGE
-<a herf="https://google.com"> GOOGLE </a>
+<a href="https://google.com"> GOOGLE </a>
+href ->Hypertext REFerence
 
 <br/> tags is used to break the rows and go to the next line 
 
+IMAGE TAG -> USED TO ADD THE IMAGES 
+<img src="/relative url" alt="image name" height="" width=""/>
+
+BOLD TAG  ->   <b> Bold</b>
+
+ITALIC   ->    <i>italic</i>
+
+UNDERLINE  ->  <u> underline </u>
+
+BIG TAG -> <big> this is show the big text </big>
+
+SMALL TAG -><small> this is show the text in small </small>
+
+HR TAG -> HORIZONTAL TAG
+<hr> this tag divide the text by two draw a line in between them in horizontal
+
+SUBSCRIPT AND SUPERSCRIPT TAG
+
+<p> H<sub>2</sub>O</p> ->H₂O
+<p>3<sup>2</sup>=9</p> 3 square =9 
+Ex :-A power n
+
+PRE TAG (without ignoring spaces &next line)
+<pre> </pre> -> it given the space in the text 
