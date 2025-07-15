@@ -3,6 +3,23 @@ COMMENTS IN HTML <!-- CONTENT -->
 HTML IS NOT CASE SENSITIVE MEANS NO CHANGE FOR A &a
 
 PARAGRAPH TAG -> <P> CONTENT </P>
+
 HEAD TAG      -> <head>  </head>
+
 TITLE TAG     -> <title>    </title>  // TITLE OF THE PAGE  -> in the body tag we write the title 
+
 BODY TAG      -> <body>      </body>      BODY OF THE PAGE
+
+HEADING TAG ARE 6 TYPE
+<h1>  </h1>  the taxt is large in size 
+<h2>  </h2>  decrease in size
+<h3>  </h3>
+<h4>  </h4>
+<h5>  </h5>
+<h6>  </h6> small in size 
+
+ANCHOR TAGS -> TO ADD THE LINK TO YOUR PAGE
+<a herf="https://google.com"> GOOGLE </a>
+
+<br/> tags is used to break the rows and go to the next line 
+
